@@ -3,5 +3,5 @@ I'm a Data Analyst who previously worked as a legal assistant. Technology has al
 
 ![Montserrat1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montserrat1998&show_icons=true)
 ![Montserrat1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montserrat1998&show_icons=true&theme=radical)
-![Montserrat1998's GitHub stats](https://github-readme-stats.vercel.app/api?![Montserrat1998's GitHub stats](https://github-readme-stats.vercel.app/api?![Montserrat1998's GitHub stats]
+
 
